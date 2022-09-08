@@ -1,4 +1,8 @@
-
+            .head{font-weight: bold;
+                font-size: 18px;
+                color:black;
+                text-align:center;
+                background-color:#d2e9ff}
             .title{font-weight:bold;
                 font-size:14px;
                 color:white;
