@@ -1,0 +1,20 @@
+
+            .title{font-weight:bold;
+                font-size:14px;
+                color:white;
+                text-align: center;}
+            .box{font-weight:bold;
+                font-size:12px;color:blue}
+    .frame{
+        display:flex;
+            }
+    .left{
+        background-color: #006030;
+        flex-none;
+        width:200px;
+    }
+    .right{
+        background-color: #D7FFEE;
+        flex:auto;
+    }
+ 
