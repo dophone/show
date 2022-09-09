@@ -1,21 +1,26 @@
-            .head{font-weight: bold;
-                font-size: 18px;
-                color:black;
+            .head{
+                font-weight: bold;
+                font-size: 24px;
+                color:#DDDDFF;
                 text-align:center;
-                background-color:#d2e9ff}
-            .title{font-weight:bold;
-                font-size:14px;
+                background-color:#EA0000;}
+            .title{
+                display:flex;
+                justify-content:center;
+                align-items:center;
+                font-weight:bold;
+                font-size:15px;
                 color:white;
-                text-align: center;}
+                }
             .box{font-weight:bold;
-                font-size:12px;color:blue}
+                font-size:14px;color:blue}
     .frame{
         display:flex;
             }
     .left{
         background-color: #006030;
         flex-none;
-        width:200px;
+        width:350px;
     }
     .right{
         background-color: #D7FFEE;
