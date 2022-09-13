@@ -19,7 +19,7 @@
             }
     .left{
         background-color: #006030;
-        flex-none;
+        flex:none;
         width:350px;
     }
     .right{
